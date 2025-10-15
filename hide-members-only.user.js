@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Hides YouTube members-only videos from all sections including experimental layouts
-// @author       Caleb Lim
+// @author       NotToxel
 // @match        https://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
